@@ -1,0 +1,25 @@
+body{
+    width:100vw;
+    height: 100vh;
+    display: grid;
+    align-items: center;
+    background-image: url(hero.jpeg) !important;
+    font-family: "open-sans", sans-serif;
+}
+.btn{
+    letter-spacing: 0.2rem;
+    text-transform: uppercase;
+    font-family: sans-serif,Arial, Helvetica, sans-serif;
+}
+.cls-btn{
+    background-color: white !important;
+    border  : 0 !important;
+    outline: none !important;
+    position: absolute;
+    top : 5px ;
+    right : 10px;
+}
+.card-overlay{
+    padding-top:60px !important;
+    padding-bottom: 50px !important;
+}
